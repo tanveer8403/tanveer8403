@@ -1,21 +1,27 @@
-- 👋 Hi, I’m @tanveer8403
-- 👀 I’m interested in Developing Mobile and web apps
-- 🌱 I’m currently learning PG in Mobile Application Development
-- 📫 How to reach me Instagram: tanveer_8403 And Linkedin: tanveer8403
-- ⚡ Fun fact: I never cry 
+# 👋 Hi, I'm Tanveer!
 
----
+I am passionate about developing mobile and web applications. Currently, I am pursuing a Post Graduate degree in Mobile Application Development.
+
+
+## 🚀 Skills and Technologies
+- **Languages**: JavaScript, Python, Java, Swift, Kotlin
+- **Frameworks**: React, Node.js
+- **Tools**: Git, Docker, Kubernetes
+
 ## ✨ Featured Projects
 
-### 🚀 MindCare(https://github.com/tanveer8403/MindCare)
-MindCare is a mental health support app that offers a unique blend of technology and human-like interaction. Leveraging the power of OpenAI’s ChatGPT, the app provides users with AI-driven support that mimics the experience of speaking to a psychiatrist. Users can track their emotional well-being, receive personalized support, and explore mental health resources, all in a confidential and secure environment. The app aims to make mental health support more accessible and convenient for everyone.
+### [MindCare](https://github.com/tanveer8403/MindCare)
+MindCare is a mental health support app that offers a unique blend of technology and human-like interaction. Leveraging the power of OpenAI’s ChatGPT, the app provides users with AI-driven support to improve mental wellness.
 
----
+- **Technologies Used**: React Native, OpenAI API
+- **Features**: AI Chatbot, Resource Library, Mood Tracking
 
 ## 📫 Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanveer8403/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanveer_8403)
 
+## ⚡ Fun Fact
+I never cry.
 
 ---
 <!---
